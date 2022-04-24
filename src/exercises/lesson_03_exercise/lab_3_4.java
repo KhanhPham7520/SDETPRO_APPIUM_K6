@@ -1,4 +1,4 @@
-package lesson_03_exercise;
+package exercises.lesson_03_exercise;
 
 import java.util.*;
 
