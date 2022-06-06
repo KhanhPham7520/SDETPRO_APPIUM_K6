@@ -1,4 +1,4 @@
-package exercises.lab_01_exercise;
+package main.lesson_01;
 
 public class lab_01_Variable_Learning {
     public static void main(String[] args) {

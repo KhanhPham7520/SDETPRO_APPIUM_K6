@@ -1,8 +1,8 @@
-package exercises.lab_02_exercise;
+package main.lesson_02;
 
 import java.util.Scanner;
 
-public class lab_02_02 {
+public class lab_02_02_exercise {
     public static void main(String[] args) {
         int inputNumber;
         Scanner scanner = new Scanner(System.in);

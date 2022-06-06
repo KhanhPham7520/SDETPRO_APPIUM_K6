@@ -1,8 +1,8 @@
-package exercises.lab_02_exercise;
+package main.lesson_02;
 
 import java.util.Scanner;
 
-public class lab_02_01 {
+public class lab_02_01_exercise {
     public static void main(String[] args) {
         float height;
         float weight;
