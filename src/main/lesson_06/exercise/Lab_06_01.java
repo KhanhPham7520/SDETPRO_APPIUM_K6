@@ -6,6 +6,6 @@ public class Lab_06_01 {
         int hrs;
         int minutes;
 
-      
+
     }
 }
